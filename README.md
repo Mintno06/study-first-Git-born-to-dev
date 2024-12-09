@@ -1,7 +1,7 @@
 # study-first-Git-born-to-dev
 create first git by born to dev
 
-# Project Title
+# Arnold recode
 
 A brief description of what this project does and who it's for
 
@@ -13,7 +13,7 @@ A brief description of what this project does and who it's for
 Answer 1
 
 #### Question 2
-
+-
 Answer 2
 
 
@@ -25,4 +25,3 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-  
